@@ -24,9 +24,10 @@
             padding: 1rem;
         }
 
-        p {
+        p, a, h1, h2, h3, button {
             color: #37352f;
-            font-size: 1rem;
             font-family: helvetica;
             vertical-align: middle;
         }
+p {            font-size: 1rem;
+}
