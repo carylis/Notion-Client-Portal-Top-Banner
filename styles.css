@@ -19,6 +19,7 @@
         .widget-box {
             width: 100%;
             min-height: 100px;
+                background-color: #f2f2f2;
             border: 1px solid #37352f26;
             border-radius: 5px;
             padding: 1rem;
